@@ -104,13 +104,5 @@ All successful (and timed-out) executions are logged in `experiments/outputs/dat
 
 *Note: Executions that exceed the HPC queue time limits (e.g., 99 hours due to massive state serialization in highly exposed topologies) will be marked as N/A, confirming the operational limits discussed in the paper.*
 
-## 🖋️ Citation
-If you use this code or the associated datasets in your research, please cite our paper:
-
-```bibtex
-@article{
-}
-```
-
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
